@@ -1,0 +1,4 @@
+D:\VS2013Project\MovieApplication\MovieTest\bin\Debug\MovieTest.dll
+D:\VS2013Project\MovieApplication\MovieTest\bin\Debug\MovieTest.pdb
+D:\VS2013Project\MovieApplication\MovieTest\obj\Debug\MovieTest.dll
+D:\VS2013Project\MovieApplication\MovieTest\obj\Debug\MovieTest.pdb

@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=497ED249F0604E6BAAFE40F094556776/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=497ED249F0604E6BAAFE40F094556776/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=497ED249F0604E6BAAFE40F094556776/Name/@EntryValue">UnitTest1 #2</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=497ED249F0604E6BAAFE40F094556776/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;/Session&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8BEF1B8EA0B948ABBD0AD9CDDABFEC31/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8BEF1B8EA0B948ABBD0AD9CDDABFEC31/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8BEF1B8EA0B948ABBD0AD9CDDABFEC31/Name/@EntryValue">MovieTest</s:String>
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=8BEF1B8EA0B948ABBD0AD9CDDABFEC31/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="MovieTest.UnitTest1" Project="9DA23F2D-B126-4128-874D-F2731281B27E" Provider="MSTest" /&gt;&lt;e Id="MovieTest.UnitTest1.TestMethod1" Project="9DA23F2D-B126-4128-874D-F2731281B27E" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B1812CFAEF0644CA87E41AE22926DE66/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B1812CFAEF0644CA87E41AE22926DE66/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B1812CFAEF0644CA87E41AE22926DE66/Name/@EntryValue">UnitTest1</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=B1812CFAEF0644CA87E41AE22926DE66/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="MovieTest.UnitTest1" Project="9DA23F2D-B126-4128-874D-F2731281B27E" Provider="MSTest" /&gt;&lt;e Id="MovieTest.UnitTest1.TestMethod1" Project="9DA23F2D-B126-4128-874D-F2731281B27E" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
