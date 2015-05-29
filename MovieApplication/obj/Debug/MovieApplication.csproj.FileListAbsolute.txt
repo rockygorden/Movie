@@ -1,0 +1,6 @@
+D:\VS2013Project\MovieApplication\MovieApplication\bin\MovieApplication.dll.config
+D:\VS2013Project\MovieApplication\MovieApplication\bin\MovieApplication.dll
+D:\VS2013Project\MovieApplication\MovieApplication\bin\MovieApplication.pdb
+D:\VS2013Project\MovieApplication\MovieApplication\obj\Debug\MovieApplication.csprojResolveAssemblyReference.cache
+D:\VS2013Project\MovieApplication\MovieApplication\obj\Debug\MovieApplication.dll
+D:\VS2013Project\MovieApplication\MovieApplication\obj\Debug\MovieApplication.pdb
