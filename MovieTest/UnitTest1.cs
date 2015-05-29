@@ -9,7 +9,7 @@ namespace MovieTest
         [TestMethod]
         public void TestMethod1()
         {
-            int sum = 1 + 4;
+           > int sum = 1 + 4;
             Assert.AreEqual(3, sum);
         }
     }
